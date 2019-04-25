@@ -28,7 +28,7 @@ const init = async () => {
   app.listen(PORT, () => {
     console.log(`App is listening on port ${PORT}`);
   });
-}
+};
 
 init();
 
